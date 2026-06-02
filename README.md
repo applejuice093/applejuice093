@@ -1,4 +1,20 @@
-<h2 align="left">Hi 👋! My name is Aniket and I'm a Computer Science Major, from INDIA</h2>
+# Hi there, I'm Aniket Mahto 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+nearby.work;Always+Learning..." alt="Typing SVG" />
+</p>
+
+---
+
+### 💫 About Me
+
+I am a passionate **Full-Stack Developer** and **AI/ML Enthusiast** currently pursuing my B.Tech. I thrive on building scalable web applications and exploring the frontiers of generative AI.
+
+- 🎓 **Education:** Computer Science & Engineering Undergraduate (GPA: 9.38)
+- 🚀 **Current Focus:** Deep Learning, GenAI workflows, and Full-Stack scalable architectures
+- 🗣️ **Languages:** English, Hindi, and actively learning Japanese (日本語) 🎌
+
+
 
 ###
 
@@ -74,3 +90,33 @@
 </div>
 
 ###
+
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" /></a>
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" /></a>
+  <a href="https://telegram.org" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="telegram" /></a>
+  <a href="https://whatsapp.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp" /></a>
+  <a href="https://slack.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="35" alt="slack" /></a>
+</p>
+
+
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=applejuice093&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Aniket's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applejuice093&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=applejuice093&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+#### 📅 Contribution Calendar
+<p align="center">
+  <img src="https://github-readme-stats.azurewebsites.net/api/github-contribution-calendar?username=applejuice093" alt="Aniket's Contribution Calendar" />
+</p>
