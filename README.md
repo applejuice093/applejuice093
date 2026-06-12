@@ -10,7 +10,7 @@
 
 I am a passionate **Full-Stack Developer** and **AI/ML Enthusiast** currently pursuing my B.Tech. I thrive on building scalable web applications and exploring the frontiers of generative AI.
 
-- 🎓 **Education:** Computer Science & Engineering Undergraduate (GPA: 9.38)
+- 🎓 **Education:** Computer Science & Engineering Undergraduate 
 - 🚀 **Current Focus:** Deep Learning, GenAI workflows, and Full-Stack scalable architectures
 - 🗣️ **Languages:** English, Hindi, and actively learning Japanese (日本語) 🎌
 
